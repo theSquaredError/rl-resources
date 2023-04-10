@@ -1,4 +1,5 @@
 # rl-resources
+- [Eligibility traces and TD(lambda)](https://amreis.github.io/ml/reinf-learn/2017/11/02/reinforcement-learning-eligibility-traces.html)
 ## deep reinforcement learning
 [ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980.pdf)
 
