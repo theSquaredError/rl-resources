@@ -14,3 +14,6 @@
 ## Function approximation
 [An Analysis of Temporal-Difference Learning
 with Function Approximation](https://www.mit.edu/~jnt/Papers/J063-97-bvr-td.pdf)
+
+[Fast Gradient-Descent Methods for Temporal-Difference Learning
+with Linear Function Approximation](https://icml.cc/Conferences/2009/papers/546.pdf)
