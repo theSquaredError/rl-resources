@@ -17,3 +17,8 @@ with Function Approximation](https://www.mit.edu/~jnt/Papers/J063-97-bvr-td.pdf)
 
 [Fast Gradient-Descent Methods for Temporal-Difference Learning
 with Linear Function Approximation](https://icml.cc/Conferences/2009/papers/546.pdf)
+
+## Universal Approximation Theoram
+[Approximation by superposition of sigmoidal function](https://web.njit.edu/~usman/courses/cs675_fall18/10.1.1.441.7873.pdf)
+
+[MultiLayer FeedForward networks are universal approximator](https://cognitivemedium.com/magic_paper/assets/Hornik.pdf)
