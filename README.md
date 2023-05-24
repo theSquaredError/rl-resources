@@ -22,3 +22,6 @@ with Linear Function Approximation](https://icml.cc/Conferences/2009/papers/546.
 [Approximation by superposition of sigmoidal function](https://web.njit.edu/~usman/courses/cs675_fall18/10.1.1.441.7873.pdf)
 
 [MultiLayer FeedForward networks are universal approximator](https://cognitivemedium.com/magic_paper/assets/Hornik.pdf)
+
+## Multi-agent Reinforcement Learning
+[Fully Decentralized Multi-Agent Reinforcement Learning with Networked Agents](https://proceedings.mlr.press/v80/zhang18n/zhang18n.pdf)
