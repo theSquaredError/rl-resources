@@ -28,6 +28,9 @@ with Linear Function Approximation](https://icml.cc/Conferences/2009/papers/546.
 
 ## Gumbel Softmax
 [THE CONCRETE DISTRIBUTION: A CONTINUOUS RELAXATION OF DISCRETE RANDOM VARIABLES](https://arxiv.org/pdf/1611.00712.pdf)
+
 [CATEGORICAL REPARAMETERIZATION WITH GUMBEL-SOFTMAX](https://arxiv.org/pdf/1611.01144.pdf)
+
 [Blog](https://sassafras13.github.io/GumbelSoftmax/#:~:text=First%2C%20the%20Gumbel%2DMax%20Trick,1%2D4%2C6%5D.)
+
 [Video Explanation](https://www.youtube.com/watch?v=JFgXEbgcT7g)
